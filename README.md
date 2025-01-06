@@ -27,7 +27,7 @@ Feel free to reach out for collaborations or opportunities!
 ---
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Aison's Github Stat](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
 
 ---
 
